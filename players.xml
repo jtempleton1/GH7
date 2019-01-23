@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persistentplayerdata>
+	<player id="76561197987094033" lastlogin="2019-01-22 19:08:00">
+		<acl id="76561198039360525"/>
+		<lpblock pos="199,62,830"/>
+		<bedroll pos="195,68,836"/>
+	</player>
+	<player id="76561198039360525" lastlogin="2019-01-22 19:08:02">
+		<acl id="76561197987094033"/>
+		<bedroll pos="210,68,839"/>
+	</player>
+</persistentplayerdata>
